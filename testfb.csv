@@ -1,0 +1,5 @@
+Cliente;id_facebook;id_google;inversion_facebook;inversion_diaria_fb;inversion_google
+client_1;0;;300;10;
+client_2;111;;300;10;
+client_3;222;;3100;103,333333333333;
+client_4;333;;1200;40;
